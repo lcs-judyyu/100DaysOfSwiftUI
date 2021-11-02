@@ -13,5 +13,12 @@ favouriteFood = "Chocolate brownies"
 print(favouriteFood)
 
 //constants
+let theYearIWasBorn = 2005
+print(theYearIWasBorn)
+
+//strings
+let thisIsAParagraph = """
+
+"""
 
 //Day 0 - introduction
