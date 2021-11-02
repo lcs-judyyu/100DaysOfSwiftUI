@@ -34,6 +34,7 @@ print(twoTimesMyLuckyNumber)
 
     //NOTE: CGFloat = Double
 var aDecimal = 0.05
-aDecimal /=2
+aDecimal /= 2
+print(aDecimal)
 
 //Day 0 - introduction
