@@ -13,7 +13,5 @@ favouriteFood = "Chocolate brownies"
 print(favouriteFood)
 
 //constants
-let
-
 
 //Day 0 - introduction
