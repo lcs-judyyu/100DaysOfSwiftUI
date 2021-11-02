@@ -28,6 +28,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 print(thisIsAParagraph)
 
 //numbers
+let myLuckyNumber = 16
+let twoTimesMyLuckyNumber = myLuckyNumber * 2
+print(twoTimesMyLuckyNumber)
 
+    //NOTE: CGFloat = Double
+var aDecimal = 0.05
+aDecimal /=2
 
 //Day 0 - introduction
